@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>流媒体传输 Express 服务</title>
+        <style type="text/css">
+            body {
+                margin: 0px;
+                padding: 0px;
+                background-color: #000;
+            }
+
+            video {
+                position: absolute;
+                width: 800px;
+                left: 50%;
+                top: 50%;
+                -webkit-transform: translate(-50%, -50%);
+                -moz-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%);
+            }
+        </style>
+    </head>
+
+    <body>
+        <video src="/video/20220315" width="800px" height="auto" controls autoplay id="videoPlayer"></video>
+    </body>
+
+</html>
