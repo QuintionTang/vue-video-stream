@@ -1,5 +1,6 @@
 package-lock.json
 # Node artifact files
+yarn-lock.json
 node_modules/
 dist/
 .DS_Store

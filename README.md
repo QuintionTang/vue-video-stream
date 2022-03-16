@@ -24,6 +24,26 @@ npm run debug
 
 预览地址：`http://127.0.0.1:8100/`
 
+### video-web
+
+VUE 前端视频播放应用，展示视频播放。
+
+进入项目目录，安装依赖：：
+
+```
+yarn install
+```
+
+启动命令：
+
+```
+yarn serve
+```
+
+效果如下：
+
+![demo.jpg](./docs/demo.jpg)
+
 ### 个人自媒体
 
 -   个人网站：[https://www.devpoint.cn/index.shtml](https://www.devpoint.cn/index.shtml)
