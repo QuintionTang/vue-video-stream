@@ -1,6 +1,6 @@
 # VUE VIDEO STREAM
 
-一个简单的全栈视频流传输 WEB 应用
+requestVideoFrameCallback() 简单实例
 
 ### express-service
 
